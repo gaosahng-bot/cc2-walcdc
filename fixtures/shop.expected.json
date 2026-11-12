@@ -1,0 +1,25 @@
+{
+  "last_commit_lsn": 27,
+  "tables": {
+    "products": {
+      "SKU-1": {
+        "sku": "SKU-1",
+        "price_cents": 3000000000,
+        "active": true,
+        "units_in_stock": 12
+      },
+      "SKU-3": {
+        "sku": "SKU-3",
+        "price_cents": 80,
+        "active": true,
+        "units_in_stock": 5
+      },
+      "SKU-4": {
+        "sku": "SKU-4",
+        "price_cents": 10,
+        "active": true,
+        "units_in_stock": 7
+      }
+    }
+  }
+}
